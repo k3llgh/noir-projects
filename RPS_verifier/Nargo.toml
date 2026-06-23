@@ -1,0 +1,6 @@
+[package]
+name = "RPS_verifier"
+type = "bin"
+authors = [""]
+
+[dependencies]
