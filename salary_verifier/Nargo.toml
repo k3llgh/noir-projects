@@ -1,0 +1,6 @@
+[package]
+name = "salary_verifier"
+type = "bin"
+authors = [""]
+
+[dependencies]
