@@ -1,0 +1,6 @@
+[package]
+name = "creditScore_verifier"
+type = "bin"
+authors = [""]
+
+[dependencies]
